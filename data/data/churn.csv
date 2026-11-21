@@ -1,0 +1,801 @@
+customer_id,tenure_months,contract,monthly_charges,support_tickets,logins_last_30d,payment_method,churned
+5001,51,One year,57.16,1,16,Card,0
+5002,19,Monthly,22.51,2,24,Card,1
+5003,15,One year,35.76,0,17,Bank transfer,0
+5004,48,Monthly,60.16,2,22,Card,0
+5005,24,Monthly,90.79,1,16,PayPal,1
+5006,72,Two year,55.35,1,25,PayPal,0
+5007,50,Two year,93.52,1,7,Card,0
+5008,31,Monthly,104.81,2,10,Card,0
+5009,20,One year,53.11,1,7,Card,1
+5010,50,Monthly,99.04,3,18,Card,1
+5011,11,Monthly,31.69,3,6,Card,1
+5012,3,Monthly,60.53,1,12,Bank transfer,1
+5013,3,Monthly,28.76,3,9,Bank transfer,1
+5014,43,One year,24.25,2,30,Card,0
+5015,15,Monthly,25.45,2,10,Bank transfer,1
+5016,23,Monthly,29.48,2,8,Card,1
+5017,5,Two year,102.57,1,20,PayPal,0
+5018,11,Monthly,73.37,0,31,PayPal,0
+5019,70,Monthly,113.74,2,17,Card,0
+5020,17,Monthly,72.8,4,18,Bank transfer,1
+5021,9,Monthly,81.87,3,28,PayPal,0
+5022,3,Monthly,37.45,2,25,Card,1
+5023,9,One year,73.06,1,21,Card,0
+5024,22,Two year,57.53,4,13,Bank transfer,0
+5025,18,Monthly,112.14,1,22,Card,0
+5026,15,Monthly,112.39,2,7,Card,1
+5027,46,Monthly,38.85,0,13,Bank transfer,0
+5028,15,Two year,81.01,1,29,Card,0
+5029,5,Monthly,82.82,1,28,Card,0
+5030,9,Monthly,75.25,4,21,PayPal,1
+5031,35,Two year,31.43,3,3,Card,0
+5032,3,One year,84.4,0,8,Bank transfer,1
+5033,53,Monthly,98.91,2,13,Bank transfer,0
+5034,15,Monthly,53.52,1,17,Card,0
+5035,30,Monthly,70.46,1,8,Bank transfer,1
+5036,72,Two year,30.63,1,16,Bank transfer,0
+5037,22,Monthly,112.07,1,32,Card,0
+5038,13,Monthly,29.95,0,21,Bank transfer,1
+5039,2,One year,39.84,1,20,PayPal,0
+5040,14,Monthly,48.85,2,10,PayPal,1
+5041,17,Monthly,101.58,0,5,Card,1
+5042,10,Two year,89.07,6,8,Card,1
+5043,23,Monthly,19.7,3,5,Bank transfer,1
+5044,3,Two year,37.36,1,19,PayPal,0
+5045,44,One year,94.02,2,21,PayPal,0
+5046,21,Monthly,59.38,0,10,Card,0
+5047,13,One year,21.62,1,19,PayPal,0
+5048,12,One year,115.39,1,30,Card,0
+5049,27,One year,34.12,3,34,Card,0
+5050,24,One year,70.05,1,24,Bank transfer,1
+5051,3,Monthly,43.83,0,17,Card,1
+5052,28,Monthly,92.75,2,24,Bank transfer,0
+5053,3,One year,96.67,2,29,Card,0
+5054,12,Monthly,58.72,1,2,Bank transfer,1
+5055,10,Monthly,84.84,4,30,PayPal,1
+5056,17,Monthly,109.91,3,14,Card,1
+5057,28,Monthly,100.48,1,14,Bank transfer,1
+5058,21,One year,60.49,3,15,Bank transfer,0
+5059,3,One year,63.15,1,21,Card,0
+5060,37,Two year,107.69,0,9,Bank transfer,0
+5061,37,Monthly,22.44,0,16,Bank transfer,0
+5062,21,Monthly,21.28,0,22,Card,1
+5063,6,Two year,39.58,0,20,PayPal,0
+5064,6,Monthly,101.76,2,21,Card,1
+5065,62,One year,34.32,4,15,Card,0
+5066,5,One year,47.53,2,24,Card,0
+5067,21,Monthly,81.91,1,26,Bank transfer,1
+5068,62,Monthly,37.42,1,26,PayPal,0
+5069,8,One year,49.31,1,21,Card,0
+5070,5,Monthly,65.69,2,26,Card,0
+5071,8,Two year,41.81,1,25,Card,0
+5072,40,One year,118.24,1,39,Bank transfer,0
+5073,47,Monthly,35.34,0,28,Card,0
+5074,12,One year,103.99,0,17,Card,0
+5075,18,Monthly,66.01,1,11,Card,0
+5076,57,Monthly,31.91,2,16,Card,0
+5077,6,Two year,30.85,1,15,Bank transfer,0
+5078,14,One year,69.03,2,22,Bank transfer,1
+5079,29,One year,54.35,2,12,Card,0
+5080,68,Two year,42.46,0,28,Card,0
+5081,57,Monthly,114.89,3,7,Card,1
+5082,19,Monthly,65.34,1,5,Bank transfer,1
+5083,11,Monthly,111.88,1,17,Card,1
+5084,28,Monthly,35.4,2,11,Card,1
+5085,4,Monthly,37.35,0,8,Bank transfer,1
+5086,72,Monthly,78.6,1,13,Card,1
+5087,8,One year,45.99,1,12,Bank transfer,0
+5088,19,Monthly,37.49,1,18,Card,0
+5089,1,One year,28.47,1,13,Card,0
+5090,13,Two year,26.63,1,14,Bank transfer,0
+5091,17,Two year,94.32,2,18,Card,0
+5092,10,Monthly,47.22,2,26,Card,1
+5093,16,Two year,116.84,5,30,PayPal,0
+5094,4,One year,37.31,2,19,Card,0
+5095,20,Monthly,54.44,2,20,PayPal,0
+5096,45,Monthly,56.49,3,17,Card,0
+5097,8,Monthly,69.02,2,22,PayPal,1
+5098,57,One year,106.06,1,21,PayPal,0
+5099,10,One year,102.48,2,29,Card,0
+5100,11,Monthly,20.0,2,3,Bank transfer,1
+5101,17,One year,59.93,4,16,Bank transfer,1
+5102,14,Monthly,101.79,2,21,Card,1
+5103,19,Monthly,19.02,1,18,Card,1
+5104,44,Two year,72.36,3,10,PayPal,0
+5105,40,Two year,44.95,0,8,Bank transfer,0
+5106,7,One year,60.28,2,24,PayPal,1
+5107,13,Monthly,61.03,1,12,PayPal,1
+5108,46,Monthly,58.18,2,4,PayPal,0
+5109,2,Monthly,108.2,2,25,Bank transfer,0
+5110,5,Monthly,72.65,2,22,Bank transfer,1
+5111,3,Monthly,109.37,1,17,PayPal,1
+5112,10,Two year,91.67,2,11,Bank transfer,1
+5113,11,One year,54.11,5,17,Card,0
+5114,1,Monthly,68.36,2,28,Bank transfer,1
+5115,26,Monthly,57.99,5,5,Card,1
+5116,53,Monthly,101.86,2,5,PayPal,0
+5117,14,Monthly,37.76,0,13,Bank transfer,0
+5118,5,One year,112.64,2,18,Bank transfer,1
+5119,50,Monthly,77.04,0,14,Card,0
+5120,42,Two year,80.18,1,23,Bank transfer,0
+5121,18,Monthly,70.68,3,27,Card,1
+5122,2,Monthly,74.45,1,20,Bank transfer,1
+5123,17,Two year,85.77,4,22,Bank transfer,1
+5124,14,Monthly,84.5,1,20,Card,1
+5125,26,Monthly,40.41,2,18,Card,0
+5126,54,One year,77.24,1,8,Bank transfer,0
+5127,24,Monthly,54.46,0,10,Card,1
+5128,45,Monthly,82.7,2,7,PayPal,0
+5129,47,Monthly,73.78,1,17,PayPal,1
+5130,28,Monthly,36.97,0,20,Bank transfer,0
+5131,20,Monthly,92.47,0,6,Card,0
+5132,1,Monthly,64.7,1,19,Card,1
+5133,15,One year,74.14,1,11,PayPal,0
+5134,6,Two year,86.26,1,9,PayPal,0
+5135,10,Monthly,84.29,0,13,Card,1
+5136,7,Monthly,93.89,2,9,Bank transfer,1
+5137,40,Monthly,39.68,1,23,Card,1
+5138,1,Monthly,30.04,2,17,Card,0
+5139,21,Monthly,85.92,1,25,PayPal,0
+5140,2,One year,42.6,3,14,PayPal,1
+5141,52,Monthly,30.46,0,15,PayPal,0
+5142,72,Monthly,32.12,4,33,Card,0
+5143,12,One year,50.28,5,5,Card,1
+5144,72,Two year,118.18,2,28,PayPal,0
+5145,1,Monthly,34.73,1,31,Bank transfer,0
+5146,34,Monthly,48.85,1,24,Card,1
+5147,30,Two year,111.07,3,15,Bank transfer,0
+5148,56,Monthly,115.33,1,29,Card,0
+5149,3,One year,41.88,1,15,Bank transfer,1
+5150,2,One year,107.05,2,12,PayPal,0
+5151,49,Monthly,32.89,3,15,Card,0
+5152,8,Monthly,95.15,1,13,Card,1
+5153,72,Monthly,20.3,3,10,Bank transfer,1
+5154,55,Monthly,59.66,1,27,Bank transfer,0
+5155,7,Monthly,43.73,1,12,Card,0
+5156,30,One year,89.4,2,18,Card,1
+5157,5,One year,20.61,0,6,Bank transfer,0
+5158,6,Two year,65.49,0,18,Card,0
+5159,72,Two year,88.67,3,9,Bank transfer,0
+5160,32,One year,23.67,3,9,Bank transfer,0
+5161,56,Monthly,108.74,3,17,Card,1
+5162,10,Monthly,55.12,2,26,Bank transfer,1
+5163,18,One year,35.53,0,22,Bank transfer,0
+5164,26,One year,41.55,1,22,Bank transfer,0
+5165,22,Monthly,52.89,0,17,Bank transfer,1
+5166,39,One year,38.84,1,15,Card,0
+5167,12,Monthly,70.06,0,24,Card,1
+5168,56,Monthly,82.29,0,13,Card,0
+5169,9,Two year,62.34,0,25,Card,0
+5170,12,Monthly,61.7,2,28,Card,1
+5171,46,Monthly,97.17,1,11,Card,1
+5172,14,One year,49.1,1,12,Bank transfer,1
+5173,22,One year,81.28,1,14,Card,1
+5174,21,Monthly,108.29,1,6,PayPal,1
+5175,8,One year,41.15,3,14,Bank transfer,0
+5176,4,Monthly,80.99,2,28,Card,1
+5177,28,One year,113.8,2,10,Bank transfer,0
+5178,19,Monthly,71.98,1,29,Card,0
+5179,32,Two year,116.69,1,15,PayPal,1
+5180,3,One year,50.0,0,35,PayPal,0
+5181,17,Monthly,75.43,2,13,PayPal,1
+5182,6,Monthly,50.1,6,17,Bank transfer,1
+5183,15,Monthly,19.37,1,11,PayPal,1
+5184,8,One year,118.73,0,12,Bank transfer,0
+5185,6,One year,43.01,1,29,PayPal,0
+5186,2,One year,116.31,3,22,Card,1
+5187,7,Two year,84.3,2,26,PayPal,0
+5188,45,Monthly,109.39,0,7,Bank transfer,1
+5189,5,One year,115.72,2,23,Card,1
+5190,20,Monthly,75.78,1,10,PayPal,1
+5191,59,One year,118.97,2,7,Bank transfer,0
+5192,48,Monthly,95.73,2,20,PayPal,0
+5193,8,One year,71.38,1,20,Card,0
+5194,9,Monthly,84.49,0,18,Bank transfer,0
+5195,2,Monthly,38.43,1,24,Bank transfer,1
+5196,35,Monthly,20.1,1,25,Card,0
+5197,47,Two year,44.68,3,30,Bank transfer,0
+5198,32,Monthly,62.5,1,8,Bank transfer,0
+5199,13,Monthly,41.81,1,30,Card,0
+5200,7,Monthly,70.4,0,33,Bank transfer,0
+5201,64,Monthly,84.79,0,15,Card,0
+5202,8,Two year,84.58,1,5,PayPal,0
+5203,1,Two year,108.38,3,7,PayPal,0
+5204,2,Two year,115.63,0,14,Card,0
+5205,22,Two year,108.07,2,34,Bank transfer,0
+5206,72,Monthly,81.02,1,18,Card,1
+5207,36,Monthly,39.58,1,13,Card,0
+5208,27,One year,113.35,0,13,PayPal,0
+5209,37,One year,36.49,2,7,Card,0
+5210,13,Monthly,34.14,3,25,Card,0
+5211,12,One year,50.76,1,17,Card,0
+5212,21,Monthly,76.36,1,35,Bank transfer,0
+5213,42,Monthly,87.15,1,23,PayPal,1
+5214,8,Monthly,20.33,1,25,Card,1
+5215,5,Two year,96.8,0,16,Card,0
+5216,59,One year,36.5,1,9,Card,0
+5217,10,Monthly,48.65,3,11,Card,1
+5218,3,One year,51.21,2,7,Card,0
+5219,21,One year,52.24,2,25,Bank transfer,1
+5220,44,Monthly,95.04,0,15,Bank transfer,0
+5221,13,One year,23.09,0,26,Card,0
+5222,40,Monthly,38.65,1,19,Bank transfer,0
+5223,1,Monthly,21.23,2,16,Bank transfer,1
+5224,3,Monthly,96.83,0,9,Card,1
+5225,12,Monthly,117.37,2,20,Card,1
+5226,11,Monthly,84.95,0,16,Bank transfer,1
+5227,28,Monthly,78.01,2,25,Card,1
+5228,43,Monthly,109.81,0,12,PayPal,1
+5229,27,One year,44.5,0,23,PayPal,0
+5230,10,One year,25.65,0,31,PayPal,0
+5231,4,Monthly,70.0,2,20,Card,1
+5232,7,Monthly,45.03,1,24,Card,0
+5233,47,Monthly,64.11,2,23,PayPal,1
+5234,8,Two year,64.63,1,33,Card,0
+5235,70,Two year,50.88,2,21,Card,0
+5236,21,Monthly,67.63,1,24,Bank transfer,0
+5237,36,One year,57.02,0,18,Card,0
+5238,10,One year,30.31,4,12,Bank transfer,0
+5239,5,Two year,105.67,2,8,PayPal,0
+5240,1,Monthly,89.13,2,28,Bank transfer,1
+5241,25,Monthly,23.13,3,10,Card,1
+5242,3,One year,30.58,2,24,PayPal,0
+5243,4,Monthly,28.65,5,21,Bank transfer,1
+5244,44,Monthly,25.17,2,25,Card,0
+5245,6,Monthly,24.91,0,14,Bank transfer,0
+5246,8,Monthly,34.71,0,12,Card,0
+5247,10,One year,103.79,1,21,Card,0
+5248,11,One year,101.82,1,16,Bank transfer,0
+5249,6,Monthly,97.31,5,8,Card,1
+5250,16,Two year,80.47,0,34,Card,0
+5251,42,Monthly,91.35,0,12,Bank transfer,1
+5252,72,Two year,92.85,0,10,Card,0
+5253,21,Monthly,107.93,1,16,Bank transfer,1
+5254,32,Two year,92.23,2,28,Card,0
+5255,6,Two year,92.65,7,1,Bank transfer,1
+5256,3,Two year,99.41,2,27,PayPal,0
+5257,16,One year,74.64,0,11,Card,0
+5258,67,Monthly,40.3,0,20,Bank transfer,0
+5259,41,One year,27.45,1,13,Card,1
+5260,8,One year,60.9,2,34,Card,1
+5261,7,Monthly,28.17,1,19,Card,0
+5262,15,Two year,35.93,1,12,Card,0
+5263,15,Monthly,21.38,1,16,Card,0
+5264,17,Monthly,49.02,5,19,Bank transfer,0
+5265,15,Two year,116.0,0,19,Bank transfer,0
+5266,19,Monthly,56.89,0,22,PayPal,0
+5267,51,Monthly,43.09,3,18,PayPal,0
+5268,11,Monthly,59.34,0,7,Card,1
+5269,8,One year,49.13,1,15,Card,0
+5270,37,Two year,86.39,1,23,Card,0
+5271,25,Monthly,82.45,0,13,Bank transfer,1
+5272,4,One year,21.73,1,23,PayPal,1
+5273,10,One year,70.13,1,18,Card,0
+5274,25,One year,22.62,2,16,Card,0
+5275,42,One year,86.74,1,28,Card,0
+5276,72,Two year,112.58,2,4,PayPal,0
+5277,18,Monthly,109.75,3,13,Card,0
+5278,8,Monthly,39.57,1,28,Bank transfer,0
+5279,8,One year,93.26,1,33,Card,0
+5280,18,Monthly,98.31,3,36,Card,1
+5281,25,Monthly,105.44,3,18,Card,0
+5282,7,Monthly,44.96,3,22,Bank transfer,1
+5283,21,Monthly,64.08,1,25,Bank transfer,0
+5284,58,Two year,41.15,1,28,Card,0
+5285,7,Monthly,21.43,0,21,Card,0
+5286,18,One year,84.9,1,25,Card,0
+5287,13,One year,62.15,1,22,Card,0
+5288,29,Monthly,43.81,3,22,Card,1
+5289,15,Monthly,103.71,1,11,Card,1
+5290,21,Monthly,68.57,3,15,Bank transfer,1
+5291,6,Monthly,118.47,0,14,PayPal,1
+5292,14,Monthly,98.34,0,8,Bank transfer,1
+5293,4,One year,105.92,2,5,Bank transfer,1
+5294,9,Monthly,96.33,2,15,PayPal,1
+5295,6,Monthly,29.59,2,16,PayPal,1
+5296,72,Monthly,25.5,3,19,Card,0
+5297,5,Monthly,110.51,1,22,Card,0
+5298,8,Monthly,32.82,4,20,Card,1
+5299,4,Two year,58.12,1,16,PayPal,0
+5300,12,Monthly,79.99,0,11,Card,1
+5301,6,Monthly,40.19,0,25,Card,0
+5302,58,One year,41.53,2,17,Bank transfer,0
+5303,4,One year,65.62,0,15,Bank transfer,0
+5304,25,One year,55.09,2,17,Bank transfer,0
+5305,27,Monthly,86.66,1,12,Bank transfer,1
+5306,26,One year,26.51,1,14,Bank transfer,0
+5307,18,Monthly,67.88,1,14,PayPal,1
+5308,53,One year,36.43,0,16,Card,0
+5309,19,Monthly,79.67,1,23,PayPal,1
+5310,17,One year,30.62,1,21,Bank transfer,0
+5311,24,One year,38.76,1,30,Card,0
+5312,10,One year,99.39,2,28,PayPal,0
+5313,31,Monthly,42.52,5,34,PayPal,0
+5314,37,One year,92.71,1,22,PayPal,0
+5315,43,One year,46.31,4,22,PayPal,0
+5316,23,Monthly,42.5,1,14,Card,0
+5317,20,Monthly,48.92,2,25,Card,0
+5318,72,Monthly,107.09,2,13,Card,0
+5319,31,Monthly,58.72,3,6,PayPal,1
+5320,72,One year,43.38,0,30,PayPal,0
+5321,35,Monthly,72.66,0,8,PayPal,0
+5322,58,One year,57.56,1,22,PayPal,0
+5323,21,One year,98.02,2,11,Bank transfer,1
+5324,10,One year,118.04,2,27,Card,0
+5325,2,One year,71.66,1,28,Card,0
+5326,17,One year,64.17,2,22,Card,0
+5327,3,Monthly,53.3,2,28,Bank transfer,1
+5328,46,Monthly,116.33,2,18,Card,1
+5329,13,Two year,67.33,2,36,PayPal,0
+5330,37,Two year,36.8,3,24,Bank transfer,0
+5331,12,Monthly,115.92,0,11,Card,0
+5332,32,Two year,115.09,2,19,PayPal,0
+5333,50,Two year,62.57,2,17,Bank transfer,0
+5334,36,Monthly,53.82,2,16,Bank transfer,1
+5335,8,One year,87.04,4,5,Card,1
+5336,33,One year,101.89,3,21,Card,0
+5337,23,Monthly,68.85,1,7,Card,1
+5338,9,Monthly,52.08,3,0,Bank transfer,1
+5339,10,Monthly,49.14,1,15,Bank transfer,0
+5340,7,One year,51.66,1,12,PayPal,0
+5341,30,Monthly,30.8,2,11,PayPal,0
+5342,40,One year,96.86,0,0,Card,1
+5343,23,One year,29.5,1,11,PayPal,0
+5344,68,One year,58.83,1,17,Card,0
+5345,7,Monthly,102.49,1,13,Card,1
+5346,20,Monthly,59.41,2,21,Bank transfer,1
+5347,1,Monthly,48.48,1,29,PayPal,1
+5348,34,Monthly,113.83,1,22,PayPal,1
+5349,19,Monthly,31.65,1,26,PayPal,1
+5350,48,Monthly,107.49,2,27,Card,0
+5351,21,Monthly,25.21,1,10,Card,1
+5352,30,One year,60.35,3,22,Card,0
+5353,40,Monthly,82.17,4,26,Bank transfer,1
+5354,12,Monthly,56.0,1,15,Card,1
+5355,22,Two year,72.46,1,12,Card,0
+5356,36,Monthly,39.4,2,22,Card,1
+5357,11,Two year,75.9,1,6,Bank transfer,0
+5358,13,One year,32.46,0,9,Bank transfer,1
+5359,8,Monthly,98.61,2,13,Card,0
+5360,14,Two year,77.38,0,22,Card,1
+5361,5,Two year,67.19,1,20,Bank transfer,0
+5362,11,One year,24.47,1,26,Bank transfer,1
+5363,3,Monthly,68.98,1,11,Card,1
+5364,8,Monthly,75.36,0,10,Card,1
+5365,18,Monthly,45.57,3,22,PayPal,0
+5366,11,One year,86.76,1,12,Bank transfer,1
+5367,25,Monthly,26.68,1,13,Card,1
+5368,22,Monthly,39.87,4,3,Bank transfer,1
+5369,18,Monthly,92.75,2,20,Bank transfer,1
+5370,2,Monthly,33.72,2,30,Card,0
+5371,55,Monthly,43.55,2,10,Card,0
+5372,12,Monthly,84.09,1,26,PayPal,0
+5373,23,Two year,91.88,0,18,Bank transfer,0
+5374,35,Monthly,24.15,0,4,Card,0
+5375,7,Monthly,31.66,1,11,Bank transfer,1
+5376,5,Monthly,63.61,1,10,Card,0
+5377,2,Monthly,78.28,0,15,Bank transfer,1
+5378,46,One year,64.38,0,21,Card,0
+5379,6,Monthly,83.71,1,33,Card,0
+5380,72,Two year,94.6,0,7,Card,0
+5381,9,Two year,113.95,3,14,PayPal,0
+5382,31,Two year,53.99,3,11,Bank transfer,0
+5383,2,One year,35.31,0,8,PayPal,0
+5384,29,Monthly,45.41,1,19,Card,0
+5385,5,One year,33.82,1,18,Bank transfer,0
+5386,2,Monthly,58.42,0,3,Card,1
+5387,3,One year,106.26,0,18,Bank transfer,0
+5388,28,Monthly,53.71,0,8,Card,1
+5389,4,Monthly,33.88,1,18,Bank transfer,0
+5390,10,Monthly,71.26,1,28,Card,1
+5391,35,One year,118.19,3,22,Card,0
+5392,14,One year,37.82,2,19,Bank transfer,0
+5393,2,Monthly,96.79,1,14,Card,1
+5394,6,Monthly,101.34,1,19,Card,0
+5395,7,Monthly,59.13,1,23,PayPal,1
+5396,15,One year,80.96,0,22,Card,0
+5397,72,Monthly,62.24,3,17,Bank transfer,0
+5398,16,Monthly,45.23,3,20,PayPal,1
+5399,20,One year,61.61,0,7,Bank transfer,0
+5400,15,One year,28.53,3,12,Card,1
+5401,5,Two year,89.7,0,24,Bank transfer,0
+5402,14,One year,101.92,0,25,Bank transfer,1
+5403,72,Two year,49.74,2,19,Card,0
+5404,21,Monthly,75.65,0,30,Bank transfer,0
+5405,38,Monthly,42.21,1,22,PayPal,1
+5406,18,Two year,31.75,2,16,Card,0
+5407,72,Monthly,85.36,1,8,Card,0
+5408,5,One year,32.41,0,30,Bank transfer,0
+5409,11,Monthly,97.2,1,24,Card,1
+5410,17,Monthly,46.18,1,32,Bank transfer,0
+5411,7,Monthly,100.85,0,35,Card,0
+5412,12,One year,55.85,1,8,Card,0
+5413,40,One year,55.88,2,8,Bank transfer,0
+5414,34,Monthly,94.06,2,0,PayPal,1
+5415,16,Monthly,70.03,0,25,Card,0
+5416,5,Monthly,39.1,2,23,PayPal,1
+5417,4,Monthly,104.04,1,19,Card,1
+5418,26,Monthly,53.02,1,8,Card,1
+5419,5,Two year,29.28,1,17,Bank transfer,0
+5420,41,Monthly,60.6,1,19,Card,0
+5421,32,Monthly,76.4,1,24,Bank transfer,1
+5422,47,Monthly,79.99,1,20,Card,1
+5423,20,Monthly,102.56,3,23,Card,0
+5424,10,Monthly,73.14,2,17,Card,1
+5425,13,One year,41.37,2,27,PayPal,0
+5426,13,One year,45.17,2,23,PayPal,0
+5427,67,One year,29.08,1,9,Card,0
+5428,18,Monthly,92.59,1,29,Card,0
+5429,3,One year,29.59,2,28,PayPal,0
+5430,15,Two year,79.58,0,22,Card,0
+5431,4,Two year,78.69,0,20,PayPal,1
+5432,1,Two year,97.55,0,31,Bank transfer,0
+5433,23,Monthly,26.46,4,5,PayPal,0
+5434,11,Two year,39.29,4,28,Card,0
+5435,5,One year,109.96,1,14,Card,1
+5436,63,One year,76.22,1,27,Card,0
+5437,48,One year,64.77,3,19,Card,0
+5438,8,Two year,93.77,5,8,Card,0
+5439,16,Monthly,109.25,1,14,PayPal,0
+5440,30,One year,45.3,2,26,Card,0
+5441,6,One year,109.15,0,16,Card,1
+5442,7,One year,29.87,1,13,Card,0
+5443,29,One year,116.77,2,13,Card,1
+5444,57,Monthly,35.49,1,23,Bank transfer,1
+5445,26,Monthly,45.62,1,32,Card,1
+5446,72,Monthly,28.66,1,1,Bank transfer,0
+5447,7,One year,99.37,1,40,PayPal,0
+5448,63,One year,117.42,2,20,Card,0
+5449,41,Two year,48.7,1,23,Bank transfer,0
+5450,7,One year,51.56,1,15,Card,0
+5451,12,One year,46.9,3,18,Card,0
+5452,30,Monthly,34.48,1,20,PayPal,1
+5453,72,One year,97.74,2,10,PayPal,0
+5454,7,Two year,25.07,4,12,Card,0
+5455,66,One year,115.78,2,27,Card,0
+5456,12,Two year,111.73,2,6,Card,0
+5457,20,Two year,30.84,0,22,Bank transfer,0
+5458,12,Monthly,71.95,1,15,Bank transfer,1
+5459,11,One year,118.29,1,10,Card,1
+5460,7,Monthly,104.26,2,34,PayPal,1
+5461,20,Monthly,90.51,1,10,Bank transfer,0
+5462,6,Monthly,21.25,2,9,Card,1
+5463,72,Monthly,25.84,0,17,PayPal,0
+5464,31,Monthly,98.4,1,12,Bank transfer,0
+5465,12,One year,56.64,4,18,Card,0
+5466,13,Monthly,85.84,5,19,Bank transfer,1
+5467,22,Monthly,92.92,2,20,PayPal,0
+5468,16,Monthly,61.22,0,17,PayPal,0
+5469,17,Monthly,33.34,2,12,Card,1
+5470,24,Two year,57.67,1,23,Bank transfer,0
+5471,12,Monthly,106.1,1,17,PayPal,0
+5472,59,Monthly,52.11,1,14,PayPal,1
+5473,6,Two year,25.26,2,30,Card,0
+5474,1,Two year,114.91,2,17,Bank transfer,1
+5475,1,One year,87.07,0,27,PayPal,0
+5476,8,One year,73.09,1,28,Card,0
+5477,49,Monthly,101.91,1,28,Card,0
+5478,4,One year,60.12,1,24,Bank transfer,0
+5479,20,Monthly,117.51,0,18,Bank transfer,0
+5480,5,Monthly,104.76,1,17,Bank transfer,1
+5481,30,Monthly,47.05,1,16,Card,1
+5482,5,One year,56.1,1,1,Bank transfer,0
+5483,2,Monthly,46.57,4,24,Card,1
+5484,9,Monthly,84.93,1,20,PayPal,1
+5485,2,Monthly,82.93,1,25,Card,1
+5486,9,One year,71.25,1,17,Card,0
+5487,42,Monthly,115.58,2,23,PayPal,0
+5488,2,Monthly,66.23,0,7,Bank transfer,1
+5489,39,Monthly,97.37,2,9,Card,1
+5490,32,One year,84.81,3,0,Card,0
+5491,57,Monthly,70.82,1,17,Bank transfer,0
+5492,47,Two year,23.21,2,12,PayPal,0
+5493,11,Monthly,84.75,1,11,Card,0
+5494,44,Monthly,83.26,0,21,PayPal,0
+5495,50,Monthly,31.49,2,15,Card,0
+5496,29,Monthly,98.59,1,7,Bank transfer,0
+5497,2,Monthly,65.7,0,38,Card,0
+5498,13,Monthly,51.41,2,18,Card,0
+5499,9,Two year,101.4,2,9,PayPal,0
+5500,53,Monthly,53.34,1,13,Card,0
+5501,1,Monthly,81.19,0,17,PayPal,1
+5502,6,Monthly,80.79,2,17,Card,0
+5503,41,Monthly,24.28,1,28,Card,0
+5504,21,Monthly,61.28,1,17,PayPal,0
+5505,3,Monthly,41.28,0,33,Bank transfer,1
+5506,23,Monthly,38.96,3,15,Card,0
+5507,31,Monthly,84.5,0,21,Bank transfer,0
+5508,48,Two year,20.14,2,26,Card,0
+5509,72,One year,115.91,2,28,PayPal,0
+5510,3,Two year,58.54,1,28,Card,0
+5511,15,Monthly,48.88,0,16,Bank transfer,1
+5512,28,Two year,111.0,0,18,Card,0
+5513,17,Monthly,67.67,0,0,Bank transfer,1
+5514,38,Monthly,80.43,1,16,PayPal,0
+5515,72,One year,88.59,1,27,PayPal,0
+5516,72,Monthly,106.14,0,25,Card,0
+5517,25,Monthly,31.97,1,17,Card,1
+5518,29,One year,27.17,1,32,Card,0
+5519,55,One year,118.37,1,15,PayPal,0
+5520,1,Monthly,19.89,1,12,Card,0
+5521,5,Monthly,89.82,1,14,Bank transfer,1
+5522,6,Monthly,80.11,0,9,Card,1
+5523,39,Two year,74.26,1,23,PayPal,0
+5524,72,Monthly,97.58,3,20,Bank transfer,1
+5525,15,Monthly,118.25,2,23,Bank transfer,1
+5526,4,Monthly,23.69,1,15,PayPal,0
+5527,27,Two year,80.45,0,18,PayPal,0
+5528,6,One year,90.68,0,1,Bank transfer,0
+5529,17,Monthly,49.59,1,21,Bank transfer,0
+5530,4,Two year,108.29,1,19,Bank transfer,0
+5531,17,Monthly,64.7,2,9,Card,1
+5532,18,Two year,35.45,0,17,Card,0
+5533,21,Monthly,104.44,1,16,Bank transfer,1
+5534,22,Monthly,113.29,1,32,Bank transfer,0
+5535,11,Monthly,28.95,1,10,Card,0
+5536,53,Two year,94.17,3,21,Card,0
+5537,4,Two year,40.5,2,9,Bank transfer,0
+5538,3,One year,19.67,2,14,Card,1
+5539,16,Monthly,45.06,1,20,Bank transfer,0
+5540,3,Monthly,104.49,1,16,Bank transfer,1
+5541,4,Monthly,33.12,1,18,Card,1
+5542,4,Monthly,32.07,2,21,Card,0
+5543,3,Monthly,92.9,1,14,Card,0
+5544,36,One year,59.64,1,25,Card,0
+5545,9,One year,33.85,0,16,Bank transfer,0
+5546,69,Two year,42.0,3,17,Bank transfer,0
+5547,21,Monthly,98.46,1,21,PayPal,0
+5548,51,Monthly,81.33,4,20,Card,1
+5549,22,Monthly,95.09,2,23,Bank transfer,0
+5550,16,Monthly,28.78,4,21,Card,1
+5551,19,One year,64.81,1,22,PayPal,0
+5552,9,One year,98.71,1,15,Card,0
+5553,15,Monthly,45.58,1,9,Bank transfer,1
+5554,4,Monthly,35.92,0,7,Bank transfer,1
+5555,18,Two year,57.18,0,5,Card,1
+5556,29,Monthly,52.34,1,32,PayPal,0
+5557,25,Monthly,37.55,0,0,Card,0
+5558,9,One year,114.39,0,28,Card,0
+5559,4,One year,67.31,2,11,Bank transfer,1
+5560,28,Monthly,79.81,0,27,Bank transfer,1
+5561,48,One year,31.11,0,0,Card,0
+5562,4,Two year,80.0,0,16,Card,0
+5563,8,Monthly,74.53,1,30,Card,1
+5564,14,Monthly,112.19,0,24,PayPal,1
+5565,39,One year,60.23,0,15,Bank transfer,0
+5566,16,One year,97.21,1,2,Card,0
+5567,23,Monthly,49.42,0,7,Card,0
+5568,5,Monthly,76.89,3,29,PayPal,1
+5569,6,One year,111.7,4,15,PayPal,1
+5570,33,Monthly,81.51,2,17,Card,0
+5571,36,Monthly,90.12,0,20,Bank transfer,0
+5572,8,Monthly,106.6,1,8,Card,1
+5573,56,Monthly,111.54,2,21,Card,0
+5574,2,Two year,39.83,0,15,PayPal,0
+5575,8,One year,38.58,3,20,PayPal,0
+5576,7,Monthly,74.05,0,13,Card,1
+5577,5,Two year,118.55,0,5,PayPal,1
+5578,2,Monthly,68.02,0,15,Bank transfer,1
+5579,35,Monthly,52.09,1,23,Bank transfer,0
+5580,26,Monthly,72.73,0,21,Bank transfer,0
+5581,14,One year,25.44,1,18,Bank transfer,0
+5582,20,One year,36.72,0,25,PayPal,1
+5583,14,One year,33.89,1,16,Card,1
+5584,33,Monthly,21.79,2,18,Bank transfer,0
+5585,5,Monthly,91.22,2,14,Card,0
+5586,2,Monthly,51.55,2,26,PayPal,1
+5587,54,Two year,35.85,1,20,Card,0
+5588,13,Monthly,70.22,1,14,Card,1
+5589,68,One year,51.34,2,6,Bank transfer,0
+5590,72,One year,58.3,0,27,Card,0
+5591,66,Monthly,50.55,2,12,Card,1
+5592,22,Monthly,19.4,0,19,Card,0
+5593,3,Monthly,87.83,1,37,Bank transfer,0
+5594,72,One year,30.07,2,24,Card,0
+5595,19,Two year,40.91,1,31,Card,0
+5596,9,Monthly,38.03,0,14,Bank transfer,1
+5597,29,Two year,52.14,1,27,PayPal,0
+5598,9,Monthly,35.02,2,18,Bank transfer,0
+5599,8,Monthly,53.7,2,21,Card,1
+5600,34,Two year,43.33,2,34,PayPal,0
+5601,5,Two year,25.12,1,16,PayPal,0
+5602,25,Monthly,106.06,1,18,Bank transfer,0
+5603,19,One year,49.56,3,11,Bank transfer,1
+5604,24,Two year,28.53,1,25,Card,1
+5605,28,One year,71.15,1,14,Bank transfer,0
+5606,7,One year,31.33,1,26,Bank transfer,0
+5607,40,Monthly,96.31,3,5,Card,0
+5608,35,Monthly,25.16,3,22,Card,0
+5609,7,One year,65.46,1,13,Card,1
+5610,61,Monthly,113.38,0,24,Bank transfer,0
+5611,59,Monthly,34.9,2,18,Card,0
+5612,72,Monthly,39.14,2,14,Bank transfer,0
+5613,18,Monthly,79.05,2,15,PayPal,0
+5614,2,Monthly,116.99,1,11,Card,1
+5615,36,Monthly,57.58,1,25,Card,1
+5616,40,Monthly,83.86,1,10,Card,0
+5617,7,Monthly,34.23,0,16,Card,0
+5618,13,Two year,83.14,1,21,PayPal,0
+5619,4,One year,44.27,1,31,Bank transfer,0
+5620,10,Monthly,80.33,2,18,PayPal,1
+5621,30,Monthly,27.87,2,16,PayPal,0
+5622,39,Monthly,71.5,1,20,Card,1
+5623,7,One year,42.74,1,1,Bank transfer,1
+5624,50,One year,87.17,0,8,Card,0
+5625,17,One year,93.77,3,15,Card,1
+5626,39,One year,103.81,0,12,Card,0
+5627,11,Monthly,118.24,1,5,Card,0
+5628,4,Monthly,64.94,4,25,Bank transfer,0
+5629,35,Monthly,86.06,0,20,Bank transfer,0
+5630,5,Monthly,20.84,2,19,Card,1
+5631,16,Monthly,109.51,0,12,Card,0
+5632,1,One year,80.57,1,19,Bank transfer,1
+5633,7,Monthly,61.13,1,22,Bank transfer,0
+5634,39,One year,62.43,1,16,Bank transfer,0
+5635,11,Monthly,94.8,2,22,Card,1
+5636,37,Monthly,102.35,5,12,Card,1
+5637,37,One year,99.79,1,19,Bank transfer,0
+5638,37,Monthly,70.06,3,27,Bank transfer,1
+5639,28,Monthly,56.11,2,28,Card,0
+5640,5,Monthly,113.55,2,29,Card,0
+5641,18,One year,82.42,2,20,Card,0
+5642,28,Monthly,73.37,1,18,Bank transfer,1
+5643,48,Two year,78.83,1,14,Card,0
+5644,34,Two year,81.99,0,4,Bank transfer,0
+5645,36,One year,90.31,2,7,PayPal,0
+5646,31,Monthly,74.32,1,17,Card,0
+5647,6,One year,106.54,3,17,Card,1
+5648,11,Monthly,104.97,1,29,Card,0
+5649,15,Two year,63.23,1,29,Card,0
+5650,16,Monthly,35.85,0,13,PayPal,0
+5651,15,Monthly,76.67,0,25,PayPal,0
+5652,7,Monthly,81.07,0,14,Card,0
+5653,42,One year,71.34,1,23,PayPal,0
+5654,10,Two year,108.06,2,24,Card,1
+5655,8,Monthly,28.3,1,28,Bank transfer,1
+5656,8,Monthly,47.74,0,14,Bank transfer,0
+5657,27,One year,105.58,1,26,Card,0
+5658,24,Two year,112.94,0,3,Bank transfer,0
+5659,13,One year,61.59,1,28,Bank transfer,0
+5660,31,Monthly,38.26,0,18,Card,0
+5661,12,One year,61.03,1,18,PayPal,0
+5662,50,Two year,64.62,1,2,Card,0
+5663,72,Monthly,70.96,2,15,Card,0
+5664,9,Monthly,46.44,2,29,PayPal,1
+5665,27,Monthly,50.26,2,15,Card,1
+5666,48,Monthly,84.56,1,24,Card,0
+5667,15,One year,81.18,2,18,Card,0
+5668,35,Monthly,85.21,1,27,Card,0
+5669,11,Monthly,56.73,3,20,Card,1
+5670,16,Monthly,52.65,1,11,Card,0
+5671,4,Two year,54.15,2,18,Bank transfer,1
+5672,6,Two year,114.12,0,31,Card,0
+5673,19,Monthly,58.52,0,22,PayPal,1
+5674,3,One year,79.61,2,17,PayPal,0
+5675,8,Monthly,71.28,1,36,Card,1
+5676,14,Two year,106.62,1,27,PayPal,0
+5677,40,One year,55.91,0,25,PayPal,0
+5678,2,Monthly,62.41,2,21,PayPal,0
+5679,1,Two year,103.28,2,24,Bank transfer,0
+5680,62,Monthly,35.1,2,24,Card,0
+5681,22,One year,78.43,2,1,Card,0
+5682,14,Monthly,58.99,1,21,PayPal,1
+5683,14,One year,117.58,2,17,Bank transfer,1
+5684,10,Monthly,91.14,1,14,PayPal,1
+5685,6,Monthly,20.06,2,16,Bank transfer,1
+5686,38,Monthly,102.95,1,6,Card,1
+5687,60,Two year,89.32,3,4,Card,0
+5688,22,Monthly,75.1,2,28,PayPal,0
+5689,54,One year,42.61,2,22,Card,0
+5690,15,Monthly,33.93,0,0,Bank transfer,1
+5691,3,Two year,81.84,1,13,PayPal,0
+5692,42,Monthly,62.99,4,25,Card,1
+5693,3,One year,105.16,2,16,Card,1
+5694,27,Two year,45.24,0,28,Bank transfer,0
+5695,19,Monthly,82.75,0,26,PayPal,1
+5696,8,Monthly,43.88,1,7,Bank transfer,1
+5697,14,Two year,82.63,2,17,Card,0
+5698,72,Monthly,23.83,1,14,Card,0
+5699,24,Monthly,58.17,1,7,Card,1
+5700,44,Monthly,36.27,0,6,Card,1
+5701,6,One year,79.59,0,12,Card,1
+5702,29,Two year,50.67,1,13,PayPal,0
+5703,19,One year,96.15,2,20,Card,0
+5704,4,One year,30.46,1,26,PayPal,0
+5705,12,Monthly,74.62,2,22,PayPal,1
+5706,70,Monthly,78.37,1,24,Bank transfer,0
+5707,18,Monthly,21.21,1,16,Bank transfer,0
+5708,37,Monthly,22.6,0,23,Card,0
+5709,6,Monthly,49.82,1,17,Bank transfer,1
+5710,38,One year,79.91,1,14,Card,0
+5711,21,Monthly,115.26,0,33,Card,0
+5712,48,Monthly,28.08,1,0,Bank transfer,1
+5713,10,Monthly,89.32,1,3,Card,1
+5714,15,Monthly,88.27,0,21,Card,1
+5715,44,Monthly,85.95,1,16,Bank transfer,0
+5716,28,Monthly,70.61,1,7,Card,0
+5717,12,Monthly,115.68,1,10,Card,0
+5718,4,Monthly,69.18,0,11,Card,0
+5719,4,One year,102.83,3,25,Card,0
+5720,72,Two year,45.25,0,28,Bank transfer,0
+5721,15,One year,99.63,1,31,Bank transfer,1
+5722,14,One year,118.65,1,5,Card,1
+5723,17,Two year,110.01,1,7,Bank transfer,0
+5724,72,Monthly,49.41,1,7,PayPal,0
+5725,9,One year,103.62,2,28,Bank transfer,0
+5726,19,Monthly,28.53,2,21,Bank transfer,0
+5727,5,Monthly,86.77,4,19,Bank transfer,0
+5728,8,Monthly,53.21,1,20,PayPal,1
+5729,2,Monthly,84.87,0,18,PayPal,0
+5730,8,One year,60.22,1,9,Card,0
+5731,16,Monthly,19.9,0,22,Card,0
+5732,7,One year,42.13,1,17,Card,0
+5733,22,Two year,23.24,2,8,Bank transfer,0
+5734,1,Monthly,61.73,0,23,Card,1
+5735,11,Monthly,103.01,3,15,PayPal,0
+5736,4,Monthly,92.8,0,20,Card,0
+5737,8,Monthly,97.89,1,17,Bank transfer,0
+5738,1,Two year,99.72,4,25,Card,0
+5739,11,One year,56.19,2,20,Card,0
+5740,28,One year,69.6,3,11,Card,0
+5741,11,Monthly,69.85,2,21,Bank transfer,0
+5742,4,One year,30.32,2,21,Card,0
+5743,34,One year,78.81,0,22,Card,0
+5744,24,Monthly,91.02,1,26,Bank transfer,1
+5745,27,Monthly,80.1,3,13,PayPal,1
+5746,2,Monthly,93.6,0,23,Bank transfer,1
+5747,22,Monthly,30.89,1,4,Bank transfer,0
+5748,13,Two year,95.14,1,17,Card,0
+5749,27,One year,39.81,1,16,PayPal,0
+5750,63,Monthly,106.68,1,30,Card,0
+5751,26,Two year,43.49,0,17,PayPal,0
+5752,10,Monthly,68.2,3,23,PayPal,0
+5753,4,Monthly,67.73,1,4,Card,1
+5754,15,Two year,45.89,1,15,Card,0
+5755,3,Two year,55.17,2,11,Bank transfer,0
+5756,17,One year,37.56,2,38,Bank transfer,0
+5757,6,Monthly,76.01,2,13,Bank transfer,1
+5758,6,Two year,110.3,0,19,PayPal,0
+5759,5,One year,50.66,2,19,Bank transfer,0
+5760,38,One year,69.81,2,5,Card,1
+5761,35,Monthly,105.19,0,14,Bank transfer,1
+5762,17,Monthly,64.25,2,21,Card,1
+5763,18,Two year,102.13,1,19,Bank transfer,0
+5764,72,Two year,63.64,3,0,PayPal,0
+5765,43,One year,63.02,1,13,Card,1
+5766,52,Monthly,34.72,3,26,PayPal,1
+5767,23,One year,31.5,0,23,PayPal,0
+5768,1,Monthly,80.15,3,28,Card,1
+5769,31,Monthly,101.73,1,10,PayPal,0
+5770,14,Monthly,32.54,2,28,Bank transfer,1
+5771,3,Monthly,110.01,2,18,Card,1
+5772,13,One year,54.89,0,31,Card,0
+5773,37,Monthly,61.53,2,18,Card,1
+5774,7,Monthly,108.45,1,2,Bank transfer,1
+5775,4,Two year,108.63,2,25,Card,0
+5776,4,One year,71.49,1,14,Card,0
+5777,2,Monthly,46.68,1,15,PayPal,1
+5778,49,Monthly,36.19,1,6,Bank transfer,1
+5779,33,One year,46.16,2,31,Bank transfer,0
+5780,65,Monthly,97.06,1,14,PayPal,0
+5781,34,Monthly,51.46,1,31,Card,0
+5782,26,Monthly,88.46,4,15,Card,1
+5783,12,Monthly,38.52,1,11,Bank transfer,0
+5784,11,One year,66.85,2,29,Card,0
+5785,18,Monthly,54.21,2,17,Card,0
+5786,30,Monthly,69.36,0,17,Bank transfer,1
+5787,6,Monthly,75.99,2,8,Card,1
+5788,23,Monthly,118.09,1,14,Bank transfer,1
+5789,10,Monthly,108.99,2,21,Bank transfer,1
+5790,40,Two year,88.59,4,8,Bank transfer,0
+5791,12,Monthly,34.37,1,14,Card,1
+5792,13,Monthly,110.9,0,15,Card,0
+5793,26,Monthly,108.26,1,19,PayPal,1
+5794,21,One year,107.67,3,30,PayPal,0
+5795,23,Monthly,66.9,4,16,Card,1
+5796,4,Two year,36.07,0,12,Card,0
+5797,19,One year,94.44,0,40,Bank transfer,1
+5798,3,Monthly,57.85,2,15,Card,0
+5799,7,One year,53.46,1,16,Card,1
+5800,9,Monthly,58.08,2,15,Card,1

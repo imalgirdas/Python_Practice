@@ -1,0 +1,41 @@
+customer_id,first_name,last_name,city,country,age,segment,signup_date,email
+1,Rūta,Kazlauskas,Tallinn,Estonia,40.0,Corporate,2024-05-07,ruta.kazlauskas@mail.com
+2,Tomas,Petrauskas,Kaunas,Lithuania,52.0,Consumer,2023-02-03,tomas.petrauskas@mail.com
+3,Ieva,Jankauskaitė,Tallinn,Estonia,51.0,Small Business,2022-05-27,ieva.jankauskaite@mail.com
+4,Mantas,Stankevičius,Riga,Latvia,42.0,Consumer,2024-01-30,mantas.stankevicius@mail.com
+5,Greta,Vasiliauskaitė,Vilnius,Lithuania,61.0,Consumer,2023-07-29,
+6,Lukas,Žukauskas,Warsaw,Poland,47.0,Consumer,2023-10-01,lukas.zukauskas@mail.com
+7,Jonas,Butkus,Tallinn,Estonia,22.0,Corporate,2022-03-30,jonas.butkus@mail.com
+8,Agnė,Paulauskaitė,Tallinn,Estonia,57.0,Consumer,2022-10-12,agne.paulauskaite@mail.com
+9,Paulius,Urbonas,Vilnius,Lithuania,47.0,Consumer,2023-12-02,paulius.urbonas@mail.com
+10,Emilija,Kavaliauskaitė,Kaunas,Lithuania,,Consumer,2024-01-30,emilija.kavaliauskaite@mail.com
+11,Karolis,Kairys,Kaunas,Lithuania,47.0,Consumer,2023-02-01,karolis.kairys@mail.com
+12,Austėja,Navickaitė,Warsaw,Poland,46.0,Corporate,2024-01-04,austeja.navickaite@mail.com
+13,Domas,Ramanauskas,Riga,Latvia,23.0,Consumer,2024-02-07,domas.ramanauskas@mail.com
+14,Gabija,Sakalauskaitė,Tallinn,Estonia,46.0,Consumer,2022-12-20,gabija.sakalauskaite@mail.com
+15,Matas,Bernotas,Kaunas,Lithuania,58.0,Consumer,2024-03-30,matas.bernotas@mail.com
+16,Ugnė,Mockutė,Vilnius,Lithuania,34.0,Corporate,2022-09-20,ugne.mockute@mail.com
+17,Andris,Bērziņš,Klaipėda,Lithuania,49.0,Consumer,2022-08-07,andris.berzins@mail.com
+18,Liene,Ozola,Vilnius,Lithuania,20.0,Consumer,2023-09-15,
+19,Mart,Tamm,Tallinn,Estonia,36.0,Consumer,2023-08-04,mart.tamm@mail.com
+20,Kadri,Saar,Riga,Latvia,40.0,Small Business,2022-05-08,kadri.saar@mail.com
+21,Piotr,Nowak,Tallinn,Estonia,68.0,Small Business,2024-01-30,piotr.nowak@mail.com
+22,Anna,Kowalska,Kaunas,Lithuania,29.0,Corporate,2022-07-02,anna.kowalska@mail.com
+23,Marek,Wiśniewski,Warsaw,Poland,32.0,Consumer,2024-01-05,marek.wisniewski@mail.com
+24,Zofia,Wójcik,Warsaw,Poland,39.0,Small Business,2022-01-07,zofia.wojcik@mail.com
+25,Vytautas,Balčiūnas,Tallinn,Estonia,68.0,Corporate,2023-12-28,vytautas.balciunas@mail.com
+26,Eglė,Grigaitė,Vilnius,Lithuania,61.0,Corporate,2023-12-19,egle.grigaite@mail.com
+27,Darius,Lukoševičius,Klaipėda,Lithuania,,Consumer,2023-12-13,darius.lukosevicius@mail.com
+28,Simona,Žilinskaitė,Vilnius,Lithuania,30.0,Consumer,2023-08-30,simona.zilinskaite@mail.com
+29,Jānis,Kalniņš,Vilnius,Lithuania,60.0,Consumer,2023-03-07,janis.kalnins@mail.com
+30,Laura,Liepa,Riga,Latvia,21.0,Small Business,2023-10-06,laura.liepa@mail.com
+31,Kristjan,Kask,Tallinn,Estonia,61.0,Consumer,2022-09-10,kristjan.kask@mail.com
+32,Maria,Mägi,Warsaw,Poland,33.0,Consumer,2023-12-14,
+33,Tadas,Valaitis,Kaunas,Lithuania,64.0,Consumer,2023-05-22,tadas.valaitis@mail.com
+34,Monika,Rimkutė,Kaunas,Lithuania,33.0,Corporate,2023-02-23,monika.rimkute@mail.com
+35,Edgars,Krūmiņš,Klaipėda,Lithuania,40.0,Consumer,2023-04-07,edgars.krumins@mail.com
+36,Ilze,Siliņa,Vilnius,Lithuania,52.0,Small Business,2023-06-03,ilze.silina@mail.com
+37,Rasmus,Sepp,Vilnius,Lithuania,25.0,Corporate,2022-02-03,rasmus.sepp@mail.com
+38,Kasia,Lewandowska,Klaipėda,Lithuania,46.0,Corporate,2022-05-08,kasia.lewandowska@mail.com
+39,Justas,Adomaitis,Vilnius,Lithuania,44.0,Consumer,2022-08-12,justas.adomaitis@mail.com
+40,Neringa,Jurgaitė,Riga,Latvia,58.0,Corporate,2022-04-15,neringa.jurgaite@mail.com

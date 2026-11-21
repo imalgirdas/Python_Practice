@@ -1,0 +1,16 @@
+product_id,product_name,category,price,cost,stock
+101,Laptop Pro 14,Electronics,1299.0,910.0,25
+102,Wireless Mouse,Electronics,24.9,9.5,340
+103,4K Monitor 27,Electronics,389.0,255.0,60
+104,USB-C Hub,Electronics,49.9,21.0,210
+105,Noise-Cancel Headphones,Electronics,229.0,132.0,75
+106,Office Chair,Furniture,279.0,150.0,40
+107,Standing Desk,Furniture,549.0,330.0,18
+108,Desk Lamp,Furniture,39.9,15.0,150
+109,Bookshelf,Furniture,129.0,70.0,35
+110,Notebook A5 (5-pack),Office Supplies,12.5,4.2,600
+111,Gel Pens (12-pack),Office Supplies,9.9,3.1,800
+112,Paper A4 (500 sheets),Office Supplies,6.9,3.6,1200
+113,Yoga Mat,Sports,34.9,14.0,120
+114,Dumbbell Set 20kg,Sports,89.0,48.0,45
+115,Fitness Tracker,Sports,119.0,66.0,0
